@@ -6,6 +6,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      'oswald': ["Oswald"],
+      'roboto':['robo']
+    }
   },
   plugins: [],
 }
